@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Online Portfolio Search
 
-You can use the [editor on GitHub](https://github.com/mrkem598/portfolio-search/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![webp net-gifmaker](https://user-images.githubusercontent.com/23619819/30518188-53c4da08-9b44-11e7-80c2-82714e5346b4.gif)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mrkem598/portfolio-search/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+***
+Technology Used:
+## HTML5
+## CSS3
+## JASON
+## Ajax
+## JavaScript
+## jQuery
